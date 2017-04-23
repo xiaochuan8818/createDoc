@@ -1,0 +1,14 @@
+{
+  "name": "practice-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "document.config.js",
+  "scripts": {
+    "start": "node document.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
