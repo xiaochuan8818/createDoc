@@ -1,6 +1,6 @@
 {
-  "name": "practice-node",
-  "version": "1.0.0",
+  "name": "xc-createdoc",
+  "version": "1.0.11",
   "description": "",
   "main": "document.config.js",
   "scripts": {
@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "fs": "^0.0.1-security"
+  },
+  "bin" : {
+    "create" : "./document.config.js"
   }
 }

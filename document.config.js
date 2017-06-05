@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var fs = require('fs');
 var package = require('./package.json');
 var defaultHtml = '';
