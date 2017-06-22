@@ -6,5 +6,5 @@
 - 进入项目根目录命令行输入node document.config.js 创建目录及初始化文件
 - 命令行输入可接受参数例如 node document.config.js project。project为项目名称
 
-模块功能在持续扩展中....
+模块功能在持续扩展中...
  
